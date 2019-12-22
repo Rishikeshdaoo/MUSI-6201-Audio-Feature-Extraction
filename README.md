@@ -1,4 +1,4 @@
-# MUSI_6201-Assignment2
+# Computational Audio Analysis - Audio Feature Extraction
 
 #### C2
 ![Plots](plots.png)
